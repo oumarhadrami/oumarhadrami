@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohamed El Hadramy Oumar.
 
+![Twitter Follow](https://img.shields.io/twitter/follow/mohamed_hadramy?style=social)
 <!--
 **oumarhadrami/oumarhadrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
