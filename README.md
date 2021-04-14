@@ -11,6 +11,7 @@ A Full Stack developer that loves working hard to solve interesting problems in 
 ---
 
 ## &#x1f4c8; My GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumarhadrami&hide=kotlin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mohamed El Hadramy Oumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumarhadrami&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
