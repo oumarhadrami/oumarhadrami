@@ -8,6 +8,11 @@ A Full Stack developer that loves working hard to solve interesting problems in 
 
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="200" height="200"/>
 
+<img src="https://worldvectorlogo.com/download/spring-3.svg" alt="Spring" width="200" height="200"/>
+
+<img src="https://worldvectorlogo.com/logo/java-4" alt="Java" width="200" height="200"/>
+
+
 <!--
 **oumarhadrami/oumarhadrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
