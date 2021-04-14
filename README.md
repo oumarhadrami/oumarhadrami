@@ -6,10 +6,7 @@ A Full Stack developer that loves working hard to solve interesting problems in 
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="100" height="100"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="100" height="100"/>
-<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="100" height="100"/>
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="100" height="100"/>
+<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="100" height="100"/>
 
 <!--
 **oumarhadrami/oumarhadrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
