@@ -1,6 +1,13 @@
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohamed El Hadramy Oumar.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/mohamed_hadramy?color=%232962FF&label=Twitter%20Account%3A%20%40mohamed_hadramy&style=social)
+A Full Stack developer that loves working hard to solve interesting problems in code and develop good and proper apps. 
+
+---
+
+🧰 Toolbox
+
+![Angular](https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg)
+
 <!--
 **oumarhadrami/oumarhadrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
