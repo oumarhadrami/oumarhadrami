@@ -8,8 +8,6 @@ A Full Stack developer that loves working hard to solve interesting problems in 
 
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="200" height="200"/>
 
-![Angular]()
-
 <!--
 **oumarhadrami/oumarhadrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
