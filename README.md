@@ -8,6 +8,13 @@ A Full Stack developer that loves working hard to solve interesting problems in 
 
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="100" height="100"/>
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumarhadrami&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mohamed El Hadramy Oumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumarhadrami&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **oumarhadrami/oumarhadrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
