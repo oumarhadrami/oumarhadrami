@@ -11,9 +11,7 @@ A Full Stack developer that loves working hard to solve interesting problems in 
 ---
 
 ## &#x1f4c8; My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumarhadrami&hide=kotlin&theme=tokyonight&exclude_repo=Udacity-Data-foundations-Nanodegree,Restaurant-Menu-Web-Application,Udacity-Advanced-Machine-Learning-Nanodegree,Udacity-Business-Analyst,One-Million-Arab-Coders)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Mohamed El Hadramy Oumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumarhadrami&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumarhadrami&hide=kotlin&theme=tokyonight&exclude_repo=Udacity-Data-foundations-Nanodegree,Restaurant-Menu-Web-Application,Udacity-Advanced-Machine-Learning-Nanodegree,Udacity-Business-Analyst,One-Million-Arab-Coders)](https://github.com/anuraghazra/github-readme-stats) [![Mohamed El Hadramy Oumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumarhadrami&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **oumarhadrami/oumarhadrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
